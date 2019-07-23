@@ -15,7 +15,13 @@ TDengine is an open-sourced big data platform under [GNU AGPL v3.0](http://www.g
 - **Seamless Integration with Other Tools**: Telegraf, Grafana, Matlab, R, and other tools can be integrated with TDengine without a line of code. MQTT, OPC, Hadoop, Spark, and many others will be integrated soon. 
 
 - **Zero Management, No Learning Curve**: It takes only seconds to download, install, and run it successfully; there are no other dependencies. Automatic partitioning on tables or DBs. Standard SQL is used, with C/C++, Python, JDBC, Go and RESTful connectors.
+# Donate
+If this library helped you out feel free to donate.
 
+ - ETH: 0x0a5EFE47E01748B0A49e14C4150a4E44eB32798f
+ - LTC: 3869Ap4CaipV598Hrd2gomWBp6V9pv18LS
+ - BCH: 3KnvDG8McvtFhnQmwfADFApmPpR6XUDV4j
+ - BTC: 3BZKFM1oYqUr6NfQWtNzqYXc5gzB9pqfM1
 # Documentation
 For user manual, system design and architecture, engineering blogs, refer to [TDengine Documentation](https://www.taosdata.com/en/documentation/)
  for details.
